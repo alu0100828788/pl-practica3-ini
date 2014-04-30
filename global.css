@@ -14,7 +14,7 @@ body
 	width: auto;
 	height: 200px;
 	border: 5px solid #DDD;
-	border-radius: 8px;
+	border-radius: 15px;
 	background-color: gold;
 	text-align: center;
 	color: yellow;
@@ -46,14 +46,14 @@ table.table_out {
   border-collapse: separate;
 }
 
-table.table_out td        { vertical-align: top; text-align: left;} 
-table.table_out th        { vertical-align: top; font-size: 150%;} 
+table.table_out td        { vertical-align: top; text-align: center;} 
+table.table_out th        { vertical-align: top; font-size: 200%;} 
 
 table.table_out td.output_content {
-   padding: 25px;
+   padding: 30px;
    border-style: none;
    background-color: brown;
-   border-radius: 40px;
+   border-radius: 30px;
    max-width: 1200px;
    overflow-x: auto;
 }
@@ -62,7 +62,7 @@ table.table_out td.input_content {
    padding: 30px;
    border-style: dashed;
    background-color: orange;
-   border-radius: 40px;
+   border-radius: 30px;
    text-shadow: rgba(0, 0, 0, 0.15) 0.1em 0.1em 0.2em;
    max-width: 1200px;
    overflow-x: auto;
