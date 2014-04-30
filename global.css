@@ -53,18 +53,18 @@ table.table_out td.output_content {
    padding: 25px;
    border-style: none;
    background-color: brown;
-   border-radius: 20px;
-   max-width: 2000px;
+   border-radius: 40px;
+   max-width: 1200px;
    overflow-x: auto;
 }
 
 table.table_out td.input_content {
-   padding: 25px;
-   border-style: none;
-   background-color: white;
-   border-radius: 20px;
+   padding: 30px;
+   border-style: dashed;
+   background-color: orange;
+   border-radius: 40px;
    text-shadow: rgba(0, 0, 0, 0.15) 0.1em 0.1em 0.2em;
-   max-width: 2000px;
+   max-width: 1200px;
    overflow-x: auto;
 }
 
