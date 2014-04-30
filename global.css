@@ -21,8 +21,8 @@ body
 	font-size: 2em;
 	font-family: Arial, sans-serif;
 
-	border-style: dashed;
-   	border-color: #DDD;
+	border-style: solid;
+   	border-color: red;
 	transition:.5s;
 }
 
@@ -34,7 +34,7 @@ body
 
 table.table_out {
   border: 0px;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: blue;
   margin-left:auto; 
   margin-right:auto;
     
@@ -50,9 +50,9 @@ table.table_out td        { vertical-align: top; text-align: left;}
 table.table_out th        { vertical-align: top; font-size: 150%;} 
 
 table.table_out td.output_content {
-   padding: 15px;
+   padding: 25px;
    border-style: none;
-   background-color: white;
+   background-color: brown;
    border-radius: 20px;
    max-width: 2000px;
    overflow-x: auto;
