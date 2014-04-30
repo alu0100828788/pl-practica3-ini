@@ -51,7 +51,7 @@ table.table_out th        { vertical-align: top; font-size: 200%;}
 
 table.table_out td.output_content {
    padding: 30px;
-   border-style: none;
+   border-style: dashed;
    background-color: brown;
    border-radius: 30px;
    max-width: 2000px;
@@ -71,7 +71,7 @@ table.table_out td.input_content {
 
 h1 {
   text-align: center;
-  font-size: 300%;
+  font-size: 180%;
   
   background: brown;
   padding: 10px 15px;
